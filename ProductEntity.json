@@ -1,0 +1,16 @@
+{
+	"_id": "AB1234-AE97-6236-LNAL-7KDJKBK",
+	"productName": "SonyWT123",
+	"productDesc": "Sony 4K Television",
+	"qtyInStock": 98,
+	"prodCategory": "Electronics",
+	"price": 90900,
+	"prodManufacturer": "Sony",
+	"prodMfgDate": 1584987665,
+	"vendor": "CloudTrailer",
+	"version": 1,
+	"createdBy": "User1",
+	"createdDate": 1584987665,
+	"updatedBy": "Admin1",
+	"updatedDate": 1584987665
+}
